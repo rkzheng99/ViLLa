@@ -4,3 +4,4 @@
 
 ViLLa demonstrates capability in handling complex reasoning and referring video segmentation. Also, our model shows impressive ability in different temporal understanding benchmarks.
 
+![image](https://github.com/rkzheng99/ViLLa/blob/rkzheng99-patch-1/pics/teaser.png)
