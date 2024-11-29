@@ -14,4 +14,4 @@ While previous studies have explored solutions to integrate reasoning with video
 
 ### Experiments
 ![image](https://github.com/rkzheng99/ViLLa/blob/rkzheng99-patch-1/pics/exp1.png)
-
+Reasoning video segmentation results among ViLLa and previous related works on VideoReasonSeg benchmark. "Seg" refers to "Segmentation" while "MC" indicates "Multiple Choices".
